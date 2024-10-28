@@ -7,3 +7,5 @@ https://www.geeksforgeeks.org/d3-js-selection-append-function/ - I consulted thi
 https://plot.ly/javascript/ - I consulted this website for help with formatting my graphs, especially making my bar chart into a horizontal bar chart
 
 I've never made a GitHub pages site before, so I referenced this website to complete the end of the assignment: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+I had to play around with this a little, because it kept trying to publish my ReadMe as the page instead of my index.html file.
